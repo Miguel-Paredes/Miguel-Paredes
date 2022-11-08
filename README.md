@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miguel-Paredes
-- 👀 I’m interested in  la programacion 
-- 🌱 I’m currently learning  desarrollo de softwa
-- 💞️ I’m looking to collaborate on  el bienestar de las personas
+- 👀 I’m interested in the programming
+- 🌱 I’m currently learning Software Development
+- 💞️ I’m looking to collaborate on the weel-beging of people
 - 📫 How to reach me  +593996126865
 
 <!---
